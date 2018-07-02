@@ -6,6 +6,11 @@
 //   ['02.png', '03.png', '04.png'],
 // ];
 $layout = [
+  ['01.png'],
+  ['02.png', '03.png', '04.png'],
+  ['05.png'],
+  ['06.png', '07.png', '08.png'],
+  ['09.png'],
 ];
 
 // 超鏈結
@@ -13,6 +18,9 @@ $layout = [
 //   '03.png' => 'https://www.google.com.tw/',
 // ];
 $links = [
+  '03.png' => 'https://www.google.com.tw/',
+  '06.png' => 'https://www.facebook.com/',
+  '08.png' => 'https://www.youtube.com/',
 ];
 
 // 圖片資料夾
